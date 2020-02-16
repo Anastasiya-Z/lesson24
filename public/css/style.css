@@ -67,3 +67,9 @@ fieldset {
 p {
   color: #E64A19;
 }
+
+.weather {
+  display:  flex;
+  align-items: center;
+
+}
